@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:1f2937&height=120&section=header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jhon+Ladines+👋;👨‍💻+Web+Developer+%26+Creative+Technologist;Building+Clean+UI+%26+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jhon+Ladines+👋;+Web+Developer+%26+Graphic+Designer;Building+Clean+UI+%26+Scalable+Systems" />
 </p>
 
 
