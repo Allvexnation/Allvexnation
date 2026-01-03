@@ -1,5 +1,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:1f2937&height=120&section=header"/>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Jhon+Ladines+%F0%9F%91%8B;Web+Developer+%26+Creative+Technologist;Building+Clean+UI+%26+Scalable+Systems" />
+</p>
+
+
+
 # 💫 About Me:
 🔭 I’m currently working on<br>Building web apps, admin dashboards, and creative projects that mix clean UI with solid functionality.<br><br>🤝 I’m looking to collaborate on<br>Web development projects, creative tech ideas, and startup-style products.<br><br>👐 I’m looking for help with<br>System architecture decisions, backend optimization, and scaling projects properly.<br><br>🌱 I’m currently learning<br>Advanced JavaScript, React patterns, backend logic, and improving my overall software engineering skills.<br><br>💬 Ask me about<br>Web development, UI/UX design, filmmaking, creative workflows, or turning ideas into real projects.<br><br>⚡ Fun fact<br>I started learning logic through Minecraft command blocks and now build real-world applications 🚀
 
