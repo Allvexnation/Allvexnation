@@ -6,7 +6,6 @@
 
 
 
-
 # 💫 About Me:
 🔭 I’m currently working on<br>Building web apps, admin dashboards, and creative projects that mix clean UI with solid functionality.<br><br>🤝 I’m looking to collaborate on<br>Web development projects, creative tech ideas, and startup-style products.<br><br>👐 I’m looking for help with<br>System architecture decisions, backend optimization, and scaling projects properly.<br><br>🌱 I’m currently learning<br>Advanced JavaScript, React patterns, backend logic, and improving my overall software engineering skills.<br><br>💬 Ask me about<br>Web development, UI/UX design, filmmaking, creative workflows, or turning ideas into real projects.<br><br>⚡ Fun fact<br>I started learning logic through Minecraft command blocks and now build real-world applications 🚀
 
