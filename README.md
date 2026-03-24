@@ -7,7 +7,8 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on<br>Building web apps, admin dashboards, and creative projects that mix clean UI with solid functionality.<br><br>🤝 I’m looking to collaborate on<br>Web development projects, creative tech ideas, and startup-style products.<br><br>👐 I’m looking for help with<br>System architecture decisions, backend optimization, and scaling projects properly.<br><br>🌱 I’m currently learning<br>Advanced JavaScript, React patterns, backend logic, and improving my overall software engineering skills.<br><br>💬 Ask me about<br>Web development, UI/UX design, filmmaking, creative workflows, or turning ideas into real projects.<br><br>⚡ Fun fact<br>I started learning logic through Minecraft command blocks and now build real-world applications 🚀
+Experienced and passionate Fullstack Developer with a strong focus on building efficient and scalable web applications. On the frontend, I work with React, JavaScript, and Tailwind CSS to create intuitive, responsive, and visually appealing user interfaces. On the backend, I leverage Express.js and Supabase to build robust, high-performance services and seamless data-driven experiences. I am a detail-oriented and collaborative developer, passionate about delivering clean, maintainable code and impactful digital solutions.
+
 
 
 ## 🌐 Socials:
